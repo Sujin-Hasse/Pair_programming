@@ -1,0 +1,14 @@
+body{
+  background-color: beige;
+}
+#title{
+  background: linear-gradient(to right, #FFA7A3, #5673BD); 
+  padding: 0.43em 1em; 
+  font-size: 19px; 
+  border-radius: 3px; 
+  width: 200px;
+  color: #FFFFFF
+}
+#favorite{
+  color: cadetblue;
+}
